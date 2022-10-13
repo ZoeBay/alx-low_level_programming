@@ -1,14 +1,11 @@
 #include <stdio.h>
 
 /**
-
-     * main - Entry point
-     *
-     *  *
-     *
-     *   * Return: End with the value 0
-     *
-     *    */
+ * main - Entry point
+ *
+ * Return: End with the value 0
+ *
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
