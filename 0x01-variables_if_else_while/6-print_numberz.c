@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main - Print single digit numbers using putchar without char viariables.
+ * main - Print digital numbers.
  *
  * Return:0.
  */
@@ -15,5 +15,6 @@ int main(void)
 		i++;
 	}
 	putchar('\n');
-	return (0)
+
+	return (0);
 }
