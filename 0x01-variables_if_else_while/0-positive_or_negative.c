@@ -3,9 +3,9 @@
 /* more headers goes there */
 #include <stdio.h>
 /**
- * main- Enter program
+ *main- Enter program
  *
- * Return: 0
+ *Return: 0
  *
  */
 int main(void)
