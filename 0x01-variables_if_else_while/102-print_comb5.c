@@ -22,6 +22,7 @@ int main(void)
 			if (i == 98 && l == 99)
 				break;
 			putchar(',');
+			putchar(' ');
 		}
 	}
 	return (0);
