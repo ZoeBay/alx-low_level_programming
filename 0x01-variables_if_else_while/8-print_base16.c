@@ -9,7 +9,7 @@ int main(void)
 {
 	char chr;
 
-	for (chr = 1; chr <= 54; chr++)
+	for (chr = 0; chr <= 54; chr++)
 	{
 		if (chr <= 9)
 		{
