@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *Main - Single combinations
+ * Main - Single combinations.
  *
  * Return: 0
  */
