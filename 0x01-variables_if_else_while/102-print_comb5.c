@@ -9,9 +9,9 @@ int main(void)
 {
 	int i, l;
 
-	for (i = 0; i < 101; i++)
+	for (i = 0; i < 98; i++)
 	{
-		for (l = i + 1; l < 100; l++)
+		for (l = i + 1; l < 99; l++)
 		{
 			putchar((i / 10) + '0');
 			putchar((i % 10) + '0');
