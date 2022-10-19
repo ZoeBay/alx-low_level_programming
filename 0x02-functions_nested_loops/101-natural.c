@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 /**
  *main - Enter main
  *
@@ -24,6 +25,6 @@ int main(void)
 		}
 	}
 	c = a + b;
-	printf("%lu\n", c);
+	_putchar(c);
 	return (0);
 }
