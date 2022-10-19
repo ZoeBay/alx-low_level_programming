@@ -2,8 +2,8 @@
 
 /**
  *add - Add two integers
- *@i - First integer
- *@j - Second integer
+ *@i:First integer
+ *@j:Second integer
  *
  * Return: Sum
  */
