@@ -3,9 +3,10 @@
 /**
  *_islower - Checks for lower case character..
  *
- * Return: 1 if c or 0 otherwise
+ *&c: Character to check
+ * Return: 1 if c is lowercase or 0 otherwise
  */
 int _islower(int c)
 {
-	return(c >= 'a' && c <= 'z');
+	return( c >= 'a' && c <= 'z');
 }
