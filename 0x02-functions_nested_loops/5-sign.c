@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- *5-sign - Prints the sign of a number
- *@n: Number 
+ *print_sign - Prints the sign of a number
+ *@n:Number
  *
  * Return:1 if n > 0, 0 if n == 0, -1 if n < 0
  */
